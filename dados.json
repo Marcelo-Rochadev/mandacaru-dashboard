@@ -1,0 +1,36 @@
+{
+  "fonte": "Informe aqui as fontes (feminicídios, processos do Judiciário e denúncias, com links)",
+
+  
+
+  "feminicidios": [
+    { "ano": 2021, "feminicidios": 1347 },
+    { "ano": 2022, "feminicidios": 1455 },
+    { "ano": 2023, "feminicidios": 1475 },
+    { "ano": 2024, "feminicidios": 1492 }
+    
+  ],
+
+  
+
+  "processosJudiciario": [
+    { "ano": 2020, "processos": 597824 },
+    { "ano": 2021, "processos": 692620 },
+    { "ano": 2022, "processos": 755098 },
+    { "ano": 2023, "processos": 916790 },
+    { "ano": 2024, "processos": 1014792 },
+    { "ano": 2025, "processos": 1133894 }
+  ],
+
+
+
+  "denuncias": [
+     { "ano": 2022, "denuncias": 105671 },
+    { "ano": 2021, "denuncias": 82355 },
+    { "ano": 2022, "denuncias": 87272 },
+    { "ano": 2023, "denuncias": 114626 },
+    { "ano": 2024, "denuncias": 132084 },
+    { "ano": 2025, "denuncias": 155111 }
+    
+  ]
+}
